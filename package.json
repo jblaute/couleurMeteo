@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/jblaute/couleurMeteo#readme",
   "dependencies": {
-    "expressjs": "^1.0.1"
+    "expressjs": "^1.0.1",
+    "mongoose": "^5.0.11",
+    "mongoose-float": "^1.0.2"
   },
   "devDependencies": {}
 }

@@ -13,7 +13,7 @@ app.use(bodyParser.urlencoded({extended: true}) );
 
 var mongoose = require('mongoose');
 var Float = require('mongoose-float').loadType(mongoose);
-var db = mongoose.createConnection('localhost', 'test');
+var db = mongoose.createConnection('mongodb://localhost:27017/test');
 
 // creation des schemas
 
