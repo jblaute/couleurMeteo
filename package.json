@@ -1,0 +1,23 @@
+{
+  "name": "couleurmeteo",
+  "version": "1.0.0",
+  "description": "projet Ntiers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jblaute/couleurMeteo.git"
+  },
+  "author": "jblaute",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jblaute/couleurMeteo/issues"
+  },
+  "homepage": "https://github.com/jblaute/couleurMeteo#readme",
+  "dependencies": {
+    "expressjs": "^1.0.1"
+  },
+  "devDependencies": {}
+}
